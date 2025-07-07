@@ -1,5 +1,5 @@
 <h1>Projeto Easy Shopping</h1>
-<a href="https://hitech-igor.github.io/Projeto_HTML_CSS_Responsivo/">Demonstração do projeto</a>
+<a href="https://vianaIgor.github.io/Projeto_HTML_CSS_Responsivo/">Demonstração do projeto</a>
 <img src="https://github.com/Hitech-Igor/Projeto_HTML_CSS_Responsivo/blob/master/assets/Desktop.png?raw=true" alt="foto-projeto-para-desktop" />
 <img src="https://github.com/Hitech-Igor/Projeto_HTML_CSS_Responsivo/blob/master/assets/Mobile.png?raw=true" alt="foto-projeto-para-mobile" />
 
